@@ -1,0 +1,1 @@
+sudo apt update && sudo apt -y install wget && sudo wget https://raw.githubusercontent.com/RayNoWork/xgpu/main/vast.sh && sudo chmod +x vast.sh && sudo ./vast.sh
